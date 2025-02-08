@@ -6,3 +6,8 @@ Data cleaning & preprocessing of CO₂ emission datasets
 Exploratory Data Analysis (EDA) with visualizations
 Machine learning models for emission prediction
 Insights & recommendations for reducing CO₂ footprints
+📊 Technologies Used
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+Jupyter Notebook
+Machine Learning (Regression, Time Series Forecasting)
+Data Visualization
